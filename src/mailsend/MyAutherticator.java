@@ -14,8 +14,6 @@ import javax.mail.Authenticator;
 import javax.mail.PasswordAuthentication;  
   
 public class MyAutherticator extends Authenticator {  
-    //private String username = "wei_jc01.hcg@im.gx.csg";  
-    //private String password = "gx.123456";  
     private String username;  
     private String password;  
   

@@ -27,7 +27,6 @@ public class MyMail {
     private String mail_head_name;
     private String mail_head_value;
     private String mail_to;
-    //private String mail_from = "wei_jc01.hcg@im.gx.csg";
     private String mail_from;
     private String mail_subject;
     private String mail_body;

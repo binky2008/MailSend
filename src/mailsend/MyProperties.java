@@ -13,7 +13,6 @@ package mailsend;
 import java.util.Properties;  
   
 public class MyProperties {  
-    //private static String host = "10.100.83.190";   
     private static Properties properties = null;  
       
     public static Properties getPro(String host){  

@@ -1,0 +1,52 @@
+From: 1050414401@qq.com
+To: 1050414401@qq.com
+Message-ID: <153662266.2.1395196809531.JavaMail.mathide@mac>
+Subject: =?UTF-8?B?5Yib5bu65YaF5ZCr6ZmE5Lu244CB5Zu+5paH5bm26IyC55qE6YKu5Lu277yB?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1_724020419.1395196809507"
+
+------=_Part_1_724020419.1395196809507
+Content-Type: application/octet-stream; name=Certificate.java
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=Certificate.java
+
+public class Certificate {
+	private String id;
+	private CertificateType certificateType;
+	private String certificateName;
+	private String serialNumber;
+	private User user;
+	private CertificateParameterValue[] parameterValues;
+	private String[] fileUrls;
+	private CertificateHistory[] certificateHistories;
+}
+------=_Part_1_724020419.1395196809507
+Content-Type: multipart/related; 
+	boundary="----=_Part_0_123088640.1395196809506"
+
+------=_Part_0_123088640.1395196809506
+Content-Type: text/html;charset=gbk
+Content-Transfer-Encoding: quoted-printable
+
+<h4>=C4=DA=BA=AC=B8=BD=BC=FE=A1=A2=CD=BC=CE=C4=B2=A2=C3=AF=B5=C4=D3=CA=BC=
+=FE=B2=E2=CA=D4=A3=A1=A3=A1=A3=A1</h4> </br><a href =3D http://haolloyin.bl=
+og.51cto.com/> =C2=EC=D2=CF</a></br><img src =3D "cid:logo_jpg"></a>
+------=_Part_0_123088640.1395196809506
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: 7bit
+Content-ID: logo_jpg
+
+public class Certificate {
+	private String id;
+	private CertificateType certificateType;
+	private String certificateName;
+	private String serialNumber;
+	private User user;
+	private CertificateParameterValue[] parameterValues;
+	private String[] fileUrls;
+	private CertificateHistory[] certificateHistories;
+}
+------=_Part_0_123088640.1395196809506--
+
+------=_Part_1_724020419.1395196809507--
